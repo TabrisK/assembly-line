@@ -1,5 +1,5 @@
 {
-  "name": "assembly-line",
+  "name": "@helex/assembly-line",
   "version": "3.3.1",
   "description": "Configuration and scripts for React App.",
   "repository": {
